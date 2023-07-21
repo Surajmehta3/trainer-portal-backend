@@ -5,7 +5,7 @@ import app from "./app.js";
 
 dotenv.config({ path: "./.env" });
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5174;
 
 // const mongoUser = process.env['MONGO_USER']
 // const mongoKey = process.env['MONGO_PASS']
